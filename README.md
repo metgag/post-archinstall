@@ -1,7 +1,7 @@
-## install paru
+## paru
 `git clone https://aur.archlinux.org/paru.git`
 
-## install yazi
+## yazi
 https://yazi-rs.github.io/
 
 ### dep
