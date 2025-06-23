@@ -17,5 +17,10 @@ paru -S resvg`
 	rm -f -- "$tmp"
 }`
 
+## postgresql
+`sudo pacman -S postgresql rainfrog`
+- https://wiki.archlinux.org/title/PostgreSQL
+- https://github.com/achristmascarl/rainfrog
+
 ## read or write usb drive using pcmanfm 
 `sudo pacman -S pcmanfm gvfs gvfs-mtp gvfs-gphoto2 udisks2 polkit ntfs-3g exfatprogs dosfstools`
